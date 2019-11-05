@@ -19,8 +19,8 @@ http://localhost:8080/restapi/api/todos/{id}
 http://localhost:8080/restapi/api/todos/{id}
 
 ####POST
-#####Body
-    
+#####Body 
+
     {
         "task": "JSF IMPLEMENTS",
         "description": "CREATE FRONT-END IN JSF"
