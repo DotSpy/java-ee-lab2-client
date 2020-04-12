@@ -1,1 +1,1 @@
-Example for JNDI client with MDB and CRUD Uladzislau Kiva A minute ago
+Example for JNDI client with MDB and CRUD
